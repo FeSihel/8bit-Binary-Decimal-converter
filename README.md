@@ -5,3 +5,4 @@ This app was created as an activity on the module of Computer Organization and A
 It was developed using Visual Programming Language (AKA blocks).
 
 To use the app: click on the buttons bellow the numbers to form a binary number and it's sum to decimal.
+May only work on android.
